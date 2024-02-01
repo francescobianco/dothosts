@@ -1,2 +1,2 @@
-# dothosts (precisely .hosts file)
+# 🖥️ dothosts (precisely .hosts file)
 

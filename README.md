@@ -1,2 +1,2 @@
-# dothosts (.hosts file)
+# dothosts (precisely .hosts file)
 
